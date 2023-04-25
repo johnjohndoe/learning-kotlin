@@ -1,0 +1,1 @@
+const s="/learning-kotlin/assets/kmp_codelab-dcc38916.png",a="/learning-kotlin/assets/fs-kmp-architecture.drawio-fa432d3a.svg",t="/learning-kotlin/assets/kmm-fs-react-demo-11c681d6.png",n="/learning-kotlin/assets/kmp-fs-desktop-local-ktor-d6440da8.png",o="/learning-kotlin/assets/fs-kmp-webcanvas-architecture.drawio-c195dc62.svg";export{s as _,a,t as b,n as c,o as d};
